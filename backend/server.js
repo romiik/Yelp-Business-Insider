@@ -9,7 +9,7 @@ const port = 8080;
 app.use(express.static(__dirname + '/dist'));
 const config = {
     headers: {
-        Authorization: 'Bearer JixFxhjDIoPraPFkNmSdPcC138bTyotTkiy6PwSy_STRH4KCSp9-eu09fSxncrYRXCVXinYsVYkFAd-SpM_ysATnL5Xvr2Ngn-r6jESkaGaIVOEKKfj0A3xtU_Y0Y3Yx'
+        Authorization: ''
     }
 };
 
